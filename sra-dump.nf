@@ -1,3 +1,5 @@
+#!/usr/bin/env nextflow
+
 /* 
  * SRA Dump pipeline script
  *
